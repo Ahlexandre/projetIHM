@@ -1,0 +1,96 @@
+.btn-nav {
+    -fx-background-color: #A17D2B;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 5px;
+}
+
+.btn-nav:hover {
+    -fx-background-color: #70530F;
+    -fx-text-fill: #FFD700;
+}
+
+#connexion {
+    -fx-background-color: #A17D2B;
+    -fx-text-fill: white;
+}
+
+#bande {
+    -fx-background-color: #A17D2B;
+    -fx-text-fill: white;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-padding: 20px;
+    -fx-alignment: center;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0;
+}
+
+
+#categories{
+	-fx-alignment: center;
+}
+
+.btn-status {
+	-fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-font-size: 16px;
+    -fx-padding: 15px 45px;
+    -fx-background-radius: 5px;
+}
+
+
+.mesCoordonnees{
+    -fx-padding: 50px 400px;
+    -fx-text-fill: black;
+    -fx-font-size: 16px;  
+}
+
+.typeDeTravaux{
+	-fx-padding: 50px 400px;
+    -fx-text-fill: black;
+    -fx-font-size: 16px;  
+}
+
+.detailTravaux{
+	-fx-padding: 50px 400px;
+    -fx-text-fill: black;
+    -fx-font-size: 16px; 
+}
+
+.catLabel{
+	-fx-background-color: #f4ecd7;
+    -fx-text-fill: black;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-padding: 15px;
+    -fx-alignment: center;
+    -fx-background-radius: 3;
+ }
+ 
+.input {
+    -fx-pref-width: 2px;
+    -fx-pref-height: 2px;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold; 
+}
+
+.buttonContainer{ 
+}
+
+.btn-valider{
+	-fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 5px; 
+}
+
+.btn-refuser{
+	-fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 5px; 
+}
